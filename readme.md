@@ -123,11 +123,3 @@ This project borrows or uses code from the following projects and resources, for
 
 We are very grateful for the contributions of the authors of the above projects.
 
-If you find that the code is useful in your research, please consider citing our paper.
-
-  title={ConsistEE: Retriving Demonstraions with Consist Semantic and Lexical for Low-Resource Event Extraction},
-  author={Yikai Guo, Xuemeng Tian, Bin Ge, Yuting Yang, Yao He, Wenjun Ke, Junjie Hu, Yanyang Li, Haoran Luo},
-  year={2025}
-}
-
-
